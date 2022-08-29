@@ -1,4 +1,4 @@
-# nicks-reverse-proxy
+# Reverse-Proxy
 Simple Docker Nginx CORS Reverse-Proxy
 
 
